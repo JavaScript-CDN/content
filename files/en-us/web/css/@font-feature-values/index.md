@@ -75,3 +75,4 @@ The `@font-feature-values` at-rule may be used either at the top level of your C
 ## See also
 
 - The {{cssxref("font-variant-alternates")}} property that uses values that this at-rule defines.
+-  [Font Copy and Paste](https://www.discordfonts.com/)
